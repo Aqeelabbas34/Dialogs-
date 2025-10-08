@@ -35,7 +35,7 @@ class MainActivity : AppCompatActivity() {
 
                 dialog.dismiss()
             }
-            .setCancelable(true)
+            .setCancelable(false)
             .show()
 
     }
